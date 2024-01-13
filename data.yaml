@@ -1,0 +1,5 @@
+train: F:\checque data extraction\archive (3)\yolo\data\train\images
+val: F:\checque data extraction\archive (3)\yolo\data\valid\images
+
+nc: 8
+names: ["Bank Details","Date","Payee Name","Amount in words","Amount","Account Number","Signature","MICR Strip"]
